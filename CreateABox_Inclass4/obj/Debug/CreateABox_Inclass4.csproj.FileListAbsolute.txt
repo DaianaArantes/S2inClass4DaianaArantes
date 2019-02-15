@@ -1,0 +1,30 @@
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.exe.config
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.exe
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.pdb
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csprojResolveAssemblyReference.cache
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.Form1.resources
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.Properties.Resources.resources
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csproj.GenerateResource.Cache
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csproj.CoreCompileInputs.cache
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.exe
+G:\1815-C#\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.pdb
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.exe.config
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.exe
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.pdb
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csprojResolveAssemblyReference.cache
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.Form1.resources
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.Properties.Resources.resources
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csproj.GenerateResource.Cache
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csproj.CoreCompileInputs.cache
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.exe
+D:\2018Winter\Programming Concept II\week11\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.pdb
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.exe.config
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.exe
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\bin\Debug\CreateABox_Inclass4.pdb
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csprojResolveAssemblyReference.cache
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.Form1.resources
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.Properties.Resources.resources
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csproj.GenerateResource.cache
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.csproj.CoreCompileInputs.cache
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.exe
+C:\Users\daian\Downloads\CreateABox_Inclass4\CreateABox_Inclass4\CreateABox_Inclass4\obj\Debug\CreateABox_Inclass4.pdb
